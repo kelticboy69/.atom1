@@ -1,1 +1,0 @@
-../play-in-vlc/background.js
